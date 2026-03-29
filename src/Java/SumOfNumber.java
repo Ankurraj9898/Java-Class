@@ -21,6 +21,8 @@ public class SumOfNumber {
 		System.out.println(res);
 		
 	System.out.println("HEllo Word");
+
+	System.out.println("HEllo Word");
 	}
 
 }
