@@ -10,6 +10,7 @@ public class ArmStrongNumber {
 		Scanner scn = new Scanner (System.in);
 		
 		System.out.print("Enter a Number : ");
+		System.out.print("Enter a Number : ");
 		
 		int num= scn.nextInt();     //153
 		
